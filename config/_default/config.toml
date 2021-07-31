@@ -1,4 +1,4 @@
-baseurl = "https://hyas.netlify.app/"
+baseurl = "https://hyas-one.vercel.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
